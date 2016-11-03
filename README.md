@@ -1,4 +1,12 @@
+DEPRECATED
+==========
 
+This repository was merged into the main push jobs server repository:
+
+https://github.com/chef/opscode-pushy-server
+
+All further development on pushy-server-schema should happen in the push
+jobs server repository.
 
 License
 =======
